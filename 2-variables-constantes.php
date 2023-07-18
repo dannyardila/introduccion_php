@@ -30,24 +30,19 @@
         echo($a);
         echo"<br>";
         echo($b);
-        echo "<b><h1>";
+        echo "</b></h1>";
 
         // Constantes
         // La forma de definir una constante es mediante la funcion define
         //Sintaxis:define("nombre_variable, "valor_variable")
 
-        define{"capital colombia","Bogota"}
+        define("capital_colombia"," Bogota");
         define("habitantes", 7000000);
 
 
     ?>
 
-    <%
-        codigo php
-    %>
-    
-    <script leguage="php>
-
-    </scrit-->
+  
+   
 </body>
 </html>

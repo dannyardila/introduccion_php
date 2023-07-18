@@ -13,12 +13,9 @@
         /*Esto es un comentario de varias lineas*/
     ?>
 
-    <%
-        codigo php
-    %>
     
     <script leguage="php>
 
-    </scrit-->
+    
 </body>
 </html>
